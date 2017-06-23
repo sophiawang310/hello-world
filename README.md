@@ -1,4 +1,6 @@
 # hello-world
-learning
-yay coding 
-second attempt
+
+
+hello world 
+yay coding
+>>>>>>> master
